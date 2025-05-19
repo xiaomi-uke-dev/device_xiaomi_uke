@@ -1,36 +1,22 @@
-Device configuration for POCO F6 5G (peridot)
-=========================================
+# Device Tree for Xiaomi Pad 7 (uke)
 
-The POCO F6 5G was announced in May 2024.
+## Spec Sheet
 
-It is engineered to elevate your smartphone experience. Equipped with lightning-fast processing, stunning display, and advanced camera capabilities, it's your perfect companion for work and play.
+| Feature | Specification |
+| :--- | :--- |
+| CPU | Octa-core<br>1x2.8 GHz Cortex-X4<br>4x2.6 GHz Cortex-A720<br>3x1.9 GHz Cortex-A520 |
+| Chipset | Qualcomm® Snapdragon™ 7+ Gen 3 (*4nm*) |
+| GPU | Qualcomm® Adreno™ 732 |
+| Memory | 8GB \| 12GB \| (LPDDR5x) |
+| Shipped Android Version | 15.0 |
+| Storage | 128GB UFS 3.1 \| 256GB UFS 4.0 |
+| Battery | 8850mAh (typ) Li Polymer |
+| Dimensions | 251.2 x 173.4 x 6.2 mm (9.89 x 6.83 x 0.24 in) (Weight: 500g) |
+| Display | IPS LCD, 68B colors, 144Hz, HDR10, Dolby Vision, 800 nits, 11.2 inches, 373.7 cm2 (~85.8% screen-to-body ratio), 2136 x 3200 pixels, 3:2 ratio (~344 ppi density)) |
+| Rear Camera | 13 MP, f/2.2, (wide), 1/3.06", 1.12µm, PDAF |
+| Front Camera | 8 MP, f/2.3, (wide), 1/4.0", 1.12µm |
+| Release Date | 2024, October 29 (Global) |
 
-## Device specifications
+## Device Picture (Xiaomi Pad 7)
 
-Basic   | Spec Sheet
--------:|:-------------------------
-SoC     | Qualcomm SM8635 Snapdragon 8s Gen 3 (4 nm)
-CPU     | Octa-core (1x3.0 GHz Cortex-X4 & 4x2.8 GHz Cortex-A720 & 3x2.0 GHz Cortex-A520)
-GPU     | Adreno 735
-Memory  | 256GB 8GB RAM, 256GB 12GBRAM, 512GB 12GB RAM
-Shipped Android Version | Android 14, HyperOS
-Battery | 5000 mAh, non-removable
-Dimensions | 160.5 x 74.5 x 8 mm
-Display | AMOLED, 68B colors, 120Hz, HDR10+, Dolby Vision, 500 nits (typ), 1200 nits (HBM), 2400 nits (peak), 6.67 inches, 1220 x 2712 pixels, 20:9 ratio (~446 ppi density)
-Rear Camera 1 | 50 MP, f/1.6, (wide), 1/1.95", 0.8µm, PDAF, OIS
-Rear Camrea 2 | 8 MP, (ultrawide), 1/4.0", 1.12µm
-Front Camera | 20 MP, f/2.2, (wide), 0.8µm
-
-## Device picture
-
-![POCO F6 5G/Xiaomi Redmi Turbo 3](https://i02.appmifile.com/755_operator_sg/07/05/2024/6533de660f0c9a493e343af0dc4285be.png)
-
-## Copyright
-
-```
-#
-# Copyright (C) 2024 Paranoid Android
-#
-# SPDX-License-Identifier: Apache-2.0
-#
-```
+![Xiaomi Pad 7](https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-pad-7-pro-1.jpg)
